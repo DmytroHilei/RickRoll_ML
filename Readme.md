@@ -73,11 +73,11 @@ Create_Boundary_Boxes.py
 The dataset directory follows the standard YOLO layout:
 
 dataset/
-├── images/
-│   └── train/
-├── labels/
-│   └── train/
-└── data.yaml
+    images/
+      train/
+    labels/
+       train/
+    data.yaml
 
 Example data.yaml configuration:
 
