@@ -51,6 +51,7 @@ The dataset must contain label files in YOLO format. Each image has a correspond
 Example:
 
 0 0.503125 0.3572916666666667 0.0875 0.03958333333333333
+
 0 0.653125 0.35833333333333334 0.09375 0.04583333333333333
 
 Each row represents:
